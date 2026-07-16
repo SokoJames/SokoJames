@@ -6,18 +6,10 @@ IT personnel under Cybersecurity, interested in Networking, Databases and Ethica
 
 <img src="file.png" width="20" height="20"> <b>Featured Projects</b>
 <a href="https://github.com/sokonalysis/sokonalysis">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://opengraph.githubassets.com/1/sokonalysis/sokonalysis?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://opengraph.githubassets.com/1/sokonalysis/sokonalysis">
   <img src="https://opengraph.githubassets.com/1/sokonalysis/sokonalysis" width="400" />
-</picture>
 </a>
 <a href="https://github.com/ZedCTF/ZedCTF">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://opengraph.githubassets.com/1/ZedCTF/ZedCTF?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://opengraph.githubassets.com/1/ZedCTF/ZedCTF">
   <img src="https://opengraph.githubassets.com/1/ZedCTF/ZedCTF" width="400" />
-</picture>
 </a>
 
 <img src="laptop.png" width="20" height="20"> <b>Tech Stack:</b>
